@@ -34,7 +34,7 @@ Execute the program using runserver command.
     </head>
     <body bgcolor="azure">
         <center>
-        <img src="logo.png" height="100" width="660" alt="error!" title="SEC logo">
+        <img src="/static/logo.png" height="100" width="660" alt="error!" title="SEC logo">
         </center>
         <h1 align="center"><b>FIRST SEMESTER TIMETABLE</b></h1>
         <h3 align="center"><b>M.NITHISH REF NO: 26011090</b></h3>
@@ -137,6 +137,6 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+![alt text](image.png)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
